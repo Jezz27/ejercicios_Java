@@ -2,7 +2,7 @@ class Persona {
     String nombre;
 }
 
-public class Main {
+public class paso_Referencia {
     public static void main(String[] args) {
         Persona persona = new Persona();
         persona.nombre = "Juan";
